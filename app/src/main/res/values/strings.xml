@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Голосовой помошник</string>
+    <string name="search">поиск</string>
+    <string name="clear">очистить</string>
+    <string name="request_hint">"Что вас интерисует?"</string>
+    <string name="error_do_not_understand">"Извините,Я не понимаю,повторите пожалуйста" </string>
+    <string name="error_something_when_wron">"Извините,что-то пошло не так" </string>
+    <string name="error_tts_is_not_ready" />
+    <string name="error_voice_rocgnition_unavailable" />
+</resources>
